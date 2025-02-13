@@ -2,7 +2,7 @@
 
 ### Criado por:
 
-A89497: João Miguel da Silva Pinto Ferreira
+A89497 - João Miguel da Silva Pinto Ferreira
 
 ### Objetivos 
 
